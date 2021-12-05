@@ -21,7 +21,7 @@ public class ButtonController : MonoBehaviour
     public void CubeButton()
     {
         LivingRoom.GetComponent<VideoPlayer>().enabled = false;
-        Camera.transform.position = new Vector3(220, 0, 130);
+        Camera.transform.position = new Vector3(183, 0, 130);
         Cube.GetComponent<VideoPlayer>().enabled = true;
     }
 }
