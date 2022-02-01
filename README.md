@@ -1,5 +1,4 @@
 # 360 video tour
-![alt text](
 <img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/2/9da74aee019c17282907.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220201%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220201T133743Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=be2da0a55607973fe8acc31e88a0b70e0400508cf35d05301c4a7730cf4469ec" width="40" height="40" />
 
 
